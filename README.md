@@ -1,5 +1,6 @@
 # test-nautilus-gestionnaire-de-tache-backend
 ## Installation du projet
+### S'assurer d'avoir php - composer et mysql installer
 
 1. Cloner le projet avec la commande :  
     ```bash
